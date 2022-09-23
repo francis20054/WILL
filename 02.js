@@ -13,7 +13,8 @@ function stringMasLarga(strings) {
 
   // Tu código aca
 
-  "hola "
+  "hola " =  "hla"
+
 }
 
 // No modifiques nada debajo de esta linea //
